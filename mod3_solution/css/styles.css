@@ -23,3 +23,13 @@
 	margin: 1px;
 	padding: 5px;
 }
+
+.navbar-brand h1{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  color: black;
+}
